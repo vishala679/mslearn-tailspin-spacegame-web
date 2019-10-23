@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vishukanashetti16/ffff/_apis/build/status/vishala679.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/vishukanashetti16/ffff/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
