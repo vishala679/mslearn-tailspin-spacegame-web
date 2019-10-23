@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/vishukanashetti16/ffff/_apis/build/status/vishala679.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/vishukanashetti16/ffff/_build/latest?definitionId=5&branchName=master)
 
+[![Build Status](https://dev.azure.com/vishukanashetti16/ffffffjjj/_apis/build/status/SmartHotel_Petchecker-Web?branchName=master)](https://dev.azure.com/vishukanashetti16/ffffffjjj/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
